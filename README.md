@@ -37,3 +37,6 @@ personal GitHub repo)
 Usage once the variable names have been modified is 'python SPSStake_1.2.py'
 
 This one does something useful, a trait I intend to continue with in future projects!
+
+![image](https://user-images.githubusercontent.com/119123179/210832658-5b54eb8d-90bb-4f82-bdc0-53cf656c32b6.png)
+
