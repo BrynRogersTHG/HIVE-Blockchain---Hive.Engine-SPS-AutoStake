@@ -12,8 +12,8 @@ cg = CoinGeckoAPI()
 
 delay = 60
 delaymins = round(delay/60, 0)
-posting_key = '5JoU1CcZ5V9is81fVq1mPXkRrUkdn8c6M3do4HvwvKqzQ1DDodR'
-username = 'slobberchops'
+posting_key = '5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+username = 'your-user-name'
 mytoken = 'SPS'
 version = 1.2
 
