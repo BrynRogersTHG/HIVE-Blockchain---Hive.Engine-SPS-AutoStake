@@ -12,8 +12,8 @@ I have a large SPS stake and plenty of RC's, I keep mine claiming at every 60 se
 The script needs a couple of modifications to work, one is your HIVE username, and the other,
 your posting key.
 
-**posting_key = '5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-username = 'your-user-name'**
+**posting_key = '5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'**
+**username = 'your-user-name'**
 
 Replace the above with your own value.
 
