@@ -13,6 +13,7 @@ The script needs a couple of modifications to work, one is your HIVE username, a
 your posting key.
 
 **posting_key = '5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'**
+
 **username = 'your-user-name'**
 
 Replace the above with your own value.
