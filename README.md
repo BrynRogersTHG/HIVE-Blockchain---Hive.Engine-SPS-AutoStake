@@ -1,6 +1,5 @@
 # HIVE-Blockchain---Hive.Engine-SPS-AutoStake
 
-@ -0,0 +1,36 @@
 Stake your SPS every few minutes, automatically.
 
 When writing this script, I found several other script to auto-stake but they all 
