@@ -23,6 +23,7 @@ os.system("")
 nodes = ['https://api.hive.blog', 'https://api.deathwing.me', 'https://anyx.io']
 hive = Hive(node=nodes, keys=[posting_key])
 set_shared_blockchain_instance(hive)
+api = Api()
 
 # Kept due to HE issues occasionally, uncomment (below) if the default node gives errors
 # enginenode = ['https://engine.rishipanthee.com/']
