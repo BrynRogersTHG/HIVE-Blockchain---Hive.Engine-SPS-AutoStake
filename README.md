@@ -3,7 +3,9 @@
 Requirements: BEEM, HiveEngine, CoinGecko
 
 pip3 install -U beem
+
 pip install -U hiveengine
+
 pip install -U pycoingecko
 
 Stake your SPS every few minutes, automatically.
