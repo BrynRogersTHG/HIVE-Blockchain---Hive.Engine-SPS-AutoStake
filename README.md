@@ -10,7 +10,7 @@ pip install -U pycoingecko
 
 Stake your SPS every few minutes, automatically.
 
-When writing this script, I found several other script to auto-stake but they all 
+When writing this script, I found several other scripts to auto-stake but they all 
 were written during the time of the airdrop and contained a bunch of code that is now redundant. 
 
 I wanted something more simple, to fire up and keep running all day. Due to the fact
