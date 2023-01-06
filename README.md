@@ -1,5 +1,11 @@
 # HIVE-Blockchain---Hive.Engine-SPS-AutoStake
 
+Requirements: BEEM, HiveEngine, CoinGecko
+
+pip3 install -U beem
+pip install -U hiveengine
+pip install -U pycoingecko
+
 Stake your SPS every few minutes, automatically.
 
 When writing this script, I found several other script to auto-stake but they all 
